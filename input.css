@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  header {
+    background-image: url("/images/bg-hero-mobile.svg");
+    @apply bg-top bg-contain bg-no-repeat;
+  }
+
+  @media (min-width: 1144px) {
+    header {
+      background-image: url("/images/bg-hero-desktop.svg");
+      @apply bg-center bg-contain;
+    }
+  }
+}
+
+.color {
+  color: #808d99;
+}
