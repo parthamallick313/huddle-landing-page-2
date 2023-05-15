@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/parthamallick313/huddle-landing-page-2)
-- Live Site URL: [Netlify](https://fylo-data-storage-fmio.netlify.app/)
+- Live Site URL: [Netlify](https://huddle-landing-page-2-fmio.netlify.app/)
 
 ## My process
 
